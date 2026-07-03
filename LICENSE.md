@@ -1,4 +1,4 @@
-# 
+# خفيف JetBrains PyCharm سير العمل لـ Mac OS | مجاني JetBrains PyCharm سير العمل لـ PC Windows. مع أدوات البناء و مراجعة الكود — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
